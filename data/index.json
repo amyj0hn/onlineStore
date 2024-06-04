@@ -5,39 +5,39 @@
             "catergory":"Crossbags",
             "description":"medium bag suitable to hold all necessities.",
             "amount":"150",
-            "img-url":"https://project-images/images/bag.jpg",
-        }
+            "img-url":"https://project-images/images/bag.jpg"
+        },
 
         {
             "productName":"BrownHandbag",
             "catergory":"Crossbags",
             "description":"handbag comes with a matching wallet.",
             "amount":"200",
-            "img-url":"https://project-images/images/bag-with-wallet.jpg",
-        }
+            "img-url":"https://project-images/images/bag-with-wallet.jpg"
+        },
 
         {
             "productName":"PurseHandbag",
             "catergory":"Crossbags",
             "description":"purse handbag with a gold linked chain sling.",
             "amount":"250",
-            "img-url":"https://project-images/images/purse-handbag.jpg",
-        }
+            "img-url":"https://project-images/images/purse-handbag.jpg"
+        },
 
         {
             "productName":"SlingBag",
             "catergory":"Crossbags",
             "description":"handbag with scarf",
             "amount":"200",
-            "img-url":"https://project-images/images/slingbag.jpg",
-        }
+            "img-url":"https://project-images/images/slingbag.jpg"
+        },
 
         {
             "productName":"Black Purse",
             "catergory":"Crossbags",
             "description":"black purse with gold chain",
             "amount":"120",
-            "img-url":"https://project-images/images/woman-sling-bag.jpg",
+            "img-url":"https://project-images/images/woman-sling-bag.jpg"
         }
     ]
 }
