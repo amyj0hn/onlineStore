@@ -5,7 +5,7 @@
             "category":"Crossbags",
             "description":"medium bag suitable to hold all necessities.",
             "amount":"150",
-            "img_url":"https://project-images/images/bag.jpg"
+            "img_url":"https://amyj0hn.github.io/project-images/images/bag.jpg"
         },
 
         {
@@ -13,7 +13,7 @@
             "category":"Crossbags",
             "description":"handbag comes with a matching wallet.",
             "amount":"200",
-            "img_url":"https://project-images/images/bag-with-wallet.jpg"
+            "img_url":"https://amyj0hn.github.io/project-images/images/bag-with-wallet.jpg"
         },
 
         {
@@ -21,7 +21,7 @@
             "category":"Crossbags",
             "description":"purse handbag with a gold linked chain sling.",
             "amount":"250",
-            "img_url":"https://project-images/images/purse-handbag.jpg"
+            "img_url":"https://amyj0hn.github.io/project-images/images/purse-handbag.jpg"
         },
 
         {
@@ -29,7 +29,7 @@
             "category":"Crossbags",
             "description":"handbag with scarf",
             "amount":"200",
-            "img_url":"https://project-images/images/slingbag.jpg"
+            "img_url":"https://amyj0hn.github.io/project-images/images/slingbag.jpg"
         },
 
         {
@@ -37,7 +37,7 @@
             "category":"Crossbags",
             "description":"black purse with gold chain",
             "amount":"120",
-            "img_url":"https://project-images/images/woman-sling-bag.jpg"
+            "img_url":"https://amyj0hn.github.io/project-images/images/woman-sling-bag.jpg"
 
         }
     ]
