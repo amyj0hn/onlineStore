@@ -11,7 +11,7 @@
         {
             "productName":"BrownHandbag",
             "category":"Crossbags",
-            "description":"this handbag comes with a matching wallet.",
+            "description":"This handbag comes with a matching wallet.",
             "amount":"200",
             "img_url":"https://amyj0hn.github.io/project-images/images/bag-with-wallet.jpg"
         },
@@ -19,7 +19,7 @@
         {
             "productName":"PurseHandbag",
             "category":"Crossbags",
-            "description":"purse handbag with a gold linked chain sling.",
+            "description":"Purse handbag with a gold linked chain sling.",
             "amount":"250",
             "img_url":"https://amyj0hn.github.io/project-images/images/purse-handbag.webp"
         },
@@ -27,7 +27,7 @@
         {
             "productName":"SlingBag",
             "category":"Crossbags",
-            "description":"adorable handbag with scarf",
+            "description":"Adorable handbag with scarf",
             "amount":"200",
             "img_url":"https://amyj0hn.github.io/project-images/images/slingbag.jpg"
         },
@@ -35,7 +35,7 @@
         {
             "productName":"Black Purse",
             "category":"Crossbags",
-            "description":"cute black purse with gold chain",
+            "description":"Cute black purse with gold chain",
             "amount":"120",
             "img_url":"https://amyj0hn.github.io/project-images/images/blackpurse.jpg"
 
@@ -89,7 +89,7 @@
         {
             "productName":"Rhinestone Handle bag",
             "category":"Crossbags",
-            "description":"luxurious pink bag with rhinestone handle",
+            "description":"Luxurious pink bag with rhinestone handle",
             "amount":"120",
             "img_url":"https://amyj0hn.github.io/project-images/images/rhinestone-handle-bag.webp"
 
